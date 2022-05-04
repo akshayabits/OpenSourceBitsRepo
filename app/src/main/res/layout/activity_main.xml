@@ -71,7 +71,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Shushant"
+            android:text="Susanta Kumar Dash"
             android:layout_marginTop="12dp"
             android:textColor="@color/black"
             android:textSize="22dp"/>
@@ -79,7 +79,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="wilp.bits-pilani.ac.in"/>
+            android:text="2020MT93745@wilp.bits-pilani.ac.in"/>
 
     </LinearLayout>
     <LinearLayout
