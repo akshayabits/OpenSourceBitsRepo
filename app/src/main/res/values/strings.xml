@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">OpenSourceAssignment</string>
+    <string name="_2020mt93720_wilp_bits_pilani_ac_in">2020mt93720@wilp.bits-pilani.ac.in</string>
+    <string name="sairaju">Sairaju</string>
+    <string name="_2020mt93736_wilp_bits_pilani_ac_in">2020mt93736@wilp.bits-pilani.ac.in</string>
+    <string name="vaibhav_gakhar">Vaibhav Gakhar</string>
+    <string name="_2020mt93745_wilp_bits_pilani_ac_in">2020MT93745@wilp.bits-pilani.ac.in</string>
+    <string name="susanta_kumar_dash">Susanta Kumar Dash</string>
+    <string name="_2020mt93578_wilp_bits_pilani_ac_in">2020MT93578@wilp.bits-pilani.ac.in</string>
+    <string name="shah_mitali_kirti">Shah Mitali Kirti</string>
+    <string name="_2020mt93591_wilp_bits_pilani_ac_in">2020mt93591@wilp.bits-pilani.ac.in</string>
+    <string name="akshaya_narayan_dikshit">Akshaya Narayan Dikshit</string>
+    <string name="open_source_assigment_members">Open Source Assigment Members!</string>
+    <string name="app_name_backup">OpenSourceAssignment</string>
+    <string name="app_name_new">OpenSourceAssignments</string>    
 </resources>
